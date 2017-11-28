@@ -1,2 +1,5 @@
 # HelloWorld
-just a simple repository
+
+Hi Humans!
+
+I like playing basketball, eating dilicious food and travalling aroud.
